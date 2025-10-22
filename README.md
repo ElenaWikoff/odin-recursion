@@ -1,4 +1,4 @@
-# Project: Recursion
+# Project: Recursion (COMPLETED)
 
 [https://www.theodinproject.com/lessons/javascript-recursion](https://www.theodinproject.com/lessons/javascript-recursion)
 
